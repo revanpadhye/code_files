@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 240" fill="none">
+  <rect x="58" y="18" width="44" height="22" rx="8" fill="#c6ff1a"/>
+  <rect x="74" y="8" width="12" height="18" rx="6" fill="#eaff9a"/>
+  <path d="M48 46 H112 Q124 46 124 60 V198 Q124 220 80 220 Q36 220 36 198 V60 Q36 46 48 46 Z" fill="#102016" stroke="#c6ff1a" stroke-width="3"/>
+  <rect x="36" y="78" width="88" height="22" fill="#c6ff1a"/>
+  <text x="80" y="94" text-anchor="middle" fill="#10200f" font-family="Arial" font-size="10" font-weight="800">PICKLE</text>
+  <circle cx="80" cy="146" r="16" fill="#07140d" stroke="#c6ff1a" stroke-width="2"/>
+  <path d="M72 146 A8 8 0 1 0 88 146" stroke="#c6ff1a" stroke-width="2"/>
+</svg>
